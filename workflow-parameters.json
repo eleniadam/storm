@@ -1,0 +1,86 @@
+{
+	"telomhunterContainer": {
+		"description": "(string) Container for telomerehunter"
+	},
+	"pyIdsMemory": {
+		"description": "(string) Memory for extract_ids"
+	},
+	"telomhunterCpu": {
+		"description": "(string) CPU count for telomerehunter"
+	},
+	"seqtkContainer": {
+		"description": "(string) Container for seqtk"
+	},
+	"inputTumor": {
+		"description": "(string) Tumor bam file"
+	},
+	"onOmics": {
+		"description": "(val) Running on AWS HealthOmics true/false"
+	},
+	"telomhunterMemory": {
+		"description": "(string) Memory for telomerehunter"
+	},
+	"mrsfastCpu": {
+		"description": "(string) CPU count for mrsfast"
+	},
+	"samToolsMemory": {
+		"description": "(string) Memory for samtools"
+	},
+	"blatCpu": {
+		"description": "(string) CPU count for blat"
+	},
+	"bamToolsContainer": {
+		"description": "(string) Container for bamtools"
+	},
+	"seqtkCpu": {
+		"description": "(string) CPU count for samtools"
+	},
+	"blatMemory": {
+		"description": "(string) Memory for blat"
+	},
+	"bamToolsMemory": {
+		"description": "(string) Memory for samtools"
+	},
+	"inputDuplicons": {
+		"description": "(string) Duplicons file"
+	},
+	"mrsfastMemory": {
+		"description": "(string) Memory for mrsfast"
+	},
+	"seqtkMemory": {
+		"description": "(string) Memory for samtools"
+	},
+	"pyIdsCpu": {
+		"description": "(string) CPU count for extract_ids"
+	},
+	"inputPromoter": {
+		"description": "(string) Promoters file"
+	},
+	"inputBand": {
+		"description": "(string) Banding file"
+	},
+	"samToolsContainer": {
+		"description": "(string) Container for samtools"
+	},
+	"bamToolsCpu": {
+		"description": "(string) CPU count for samtools"
+	},
+	"inputControl": {
+		"description": "(string) Control bam file"
+	},
+	"samToolsCpu": {
+		"description": "(string) CPU count for samtools"
+	},
+	"pyIdsContainer": {
+		"description": "(string) Container for extract_ids"
+	},
+	"blatContainer": {
+		"description": "(string) Container for blat"
+	},
+	"inputSCopy": {
+		"description": "(string) Single copy sequences file"
+	},
+	"mrsfastContainer": {
+		"description": "(string) Container for mrsfast"
+	}
+}
