@@ -1,2 +1,1 @@
-# storm
-SubTelOmics Read Miner
+# STORM: SubTelOmics Read Miner
